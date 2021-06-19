@@ -1,4 +1,4 @@
-**Anagram Checker**
+# Anagrams Checker
 
     A program that checks if 2 inputed strings are Anagrams
 
